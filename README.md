@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Erick 👋</h1>
+<h1 align="center">Olá, me chamo Erick 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+FIB+Bauru;Data+Analysis+%7C+Dashboards+%7C+Desenvolvimento+%7C+Automa%C3%A7%C3%A3o;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+Python" alt="Typing SVG" />
