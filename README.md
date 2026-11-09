@@ -20,11 +20,11 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na **FIB - Bauru**
+- 🎓 Estudante de **Ciência da Computação** na **FIB - Bauru** 8/8
 - 📊 Trabalho com **análise de sistemas**, **análise de dados**, **dashboards** e **automação de processos industriais**
-- 🏭 Construí vários dashboards de produção, faturamento e corte para a indústria têxtil
+- 🏭 Construí diversos dashboards para produção, faturamento e demais setores do ramo de indústria têxtil
 - 📍 Bauru - SP, Brasil
-- 🌱 Atualmente evoluindo sistemas internos com **Django**, **React**, **HTMX** e **Postgres**
+- 🌱 Atualmente evoluindo um sistema interno com **Django**, **React** e **Postgres**
 
 ---
 
