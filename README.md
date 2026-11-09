@@ -51,6 +51,8 @@
 
 | Projeto | Descrição |
 |---|---|
+| [Central-Zanattex-v2](https://github.com/ErickVascoN/Central-Zanattex-v2) | Sistema de controle de produção da empresa: fiscal, OP e produção (versão atual) |
+| [Central-Zanattex](https://github.com/ErickVascoN/Central-Zanattex) | Sistema de controle de produção da empresa (versão anterior) |
 | [DashboardAnaliseCorte](https://github.com/ErickVascoN/DashboardAnaliseCorte) | Dashboard de análise para o setor de corte da empresa |
 | [UnificacaoDasAnalises](https://github.com/ErickVascoN/UnificacaoDasAnalises) | App web que unifica os dashboards de análise de cada setor |
 | [DashboardProducaoDiariaCamesa](https://github.com/ErickVascoN/DashboardProducaoDiariaCamesa) | Dashboard de produção diária a partir de planilha do Google Sheets |
